@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1532153712658.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "E8C5035",
+    "lastKnownWriteTime" : 1532163450,
+    "last_content_update" : 1532163450424,
+    "path" : "C:/R/Project180721/project180721_oracle/OracleDemo.R",
+    "project_path" : "OracleDemo.R",
+    "properties" : {
+        "cursorPosition" : "73,16",
+        "scrollLine" : "68",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
